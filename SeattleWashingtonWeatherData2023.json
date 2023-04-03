@@ -1,0 +1,63 @@
+{
+  "AWN_Data_View_30": [
+    {
+      "Seattle, Seattle, King County": "2023-01-01 through 2023-03-31"
+    },
+    {
+      "Seattle, Seattle, King County": "DATE",
+      "__EMPTY": "MIN_AIR_TEMP",
+      "__EMPTY_1": "AVG_AIR_TEMP",
+      "__EMPTY_2": "MAX_AIR_TEMP",
+      "__EMPTY_3": "DEWPOINT",
+      "__EMPTY_4": "REL_HUMIDITY",
+      "__EMPTY_5": "SOIL_TEMP_2_IN",
+      "__EMPTY_6": "SOIL_TEMP_8_IN",
+      "__EMPTY_7": "PRECIP",
+      "__EMPTY_8": "SOLAR_RAD",
+      "__EMPTY_9": "GRASS_ET",
+      "__EMPTY_10": "ALFALFA_ET"
+    },
+    {
+      "Seattle, Seattle, King County": "January, 2023",
+      "__EMPTY": 37.7,
+      "__EMPTY_1": 43.4,
+      "__EMPTY_2": 49.1,
+      "__EMPTY_3": 38.7,
+      "__EMPTY_4": 84.9,
+      "__EMPTY_5": 44.2,
+      "__EMPTY_6": 44.7,
+      "__EMPTY_7": 3.65,
+      "__EMPTY_8": 110,
+      "__EMPTY_9": 0.38,
+      "__EMPTY_10": 0.55
+    },
+    {
+      "Seattle, Seattle, King County": "February, 2023",
+      "__EMPTY": 36.2,
+      "__EMPTY_1": 41.7,
+      "__EMPTY_2": 47.9,
+      "__EMPTY_3": 34.7,
+      "__EMPTY_4": 77.8,
+      "__EMPTY_5": 43.6,
+      "__EMPTY_6": 44.1,
+      "__EMPTY_7": 1.74,
+      "__EMPTY_8": 169,
+      "__EMPTY_9": 0.78,
+      "__EMPTY_10": 1.06
+    },
+    {
+      "Seattle, Seattle, King County": "March, 2023",
+      "__EMPTY": 36.7,
+      "__EMPTY_1": 44.6,
+      "__EMPTY_2": 53.1,
+      "__EMPTY_3": 35.1,
+      "__EMPTY_4": 72.5,
+      "__EMPTY_5": 47.5,
+      "__EMPTY_6": 47.4,
+      "__EMPTY_7": 2.59,
+      "__EMPTY_8": 338,
+      "__EMPTY_9": 1.77,
+      "__EMPTY_10": 2.24
+    }
+  ]
+}
