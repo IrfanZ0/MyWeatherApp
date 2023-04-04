@@ -1,0 +1,47 @@
+{
+  "AWN_Data_View_30": [
+    
+    {
+      "Seattle, Seattle, King County": "January, 2023",
+      "MIN_AIR_TEMP": 37.7,
+      "AVG_AIR_TEMP": 43.4,
+      "MAX_AIR_TEMP": 49.1,
+      "DEWPOINT": 38.7,
+      "REL_HUMIDITY": 84.9,
+      "SOIL_TEMP_2_IN": 44.2,
+      "SOIL_TEMP_8_IN": 44.7,
+      "PRECIP": 3.65,
+      "SOLAR_RAD": 110,
+      "GRASS_ET": 0.38,
+      "ALFALFA_ET": 0.55
+    },
+    {
+      "Seattle, Seattle, King County": "February, 2023",
+      "MIN_AIR_TEMP": 36.2,
+      "AVG_AIR_TEMP": 41.7,
+      "MAX_AIR_TEMP": 47.9,
+      "DEWPOINT": 34.7,
+      "REL_HUMIDITY": 77.8,
+      "SOIL_TEMP_2_IN": 43.6,
+      "SOIL_TEMP_8_IN": 44.1,
+      "PRECIP": 1.74,
+      "SOLAR_RAD": 169,
+      "GRASS_ET": 0.78,
+      "ALFALFA_ET": 1.06
+    },
+    {
+      "Seattle, Seattle, King County": "March, 2023",
+      "MIN_AIR_TEMP": 36.7,
+      "AVG_AIR_TEMP": 44.6,
+      "MAX_AIR_TEMP": 53.1,
+      "DEWPOINT": 35.1,
+      "REL_HUMIDITY": 72.5,
+      "SOIL_TEMP_2_IN": 47.5,
+      "SOIL_TEMP_8_IN": 47.4,
+      "PRECIP": 2.59,
+      "SOLAR_RAD": 338,
+      "GRASS_ET": 1.77,
+      "ALFALFA_ET": 2.24
+    }
+  ]
+}
